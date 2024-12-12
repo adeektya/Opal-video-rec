@@ -170,9 +170,6 @@ OPENAI_API_KEY=your-openai-api-key
 ## Screenshots
 ![Web App Screenshot](public/opal.png)
 ![Desktop App Screenshot](public/electron.png)
-
-Add relevant screenshots of the web and Electron applications here.
-
 ---
 
 
